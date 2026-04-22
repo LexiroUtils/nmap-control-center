@@ -1,7 +1,5 @@
 # NMAP CONTROL CENTER
 
-by lexiro
-
 Nmap Control Center is a serious, modular terminal front-end for the real `nmap` binary. It does not reimplement scanning. It builds valid Nmap argument lists from structured choices, previews the exact command, runs scans with `subprocess` argument lists, and stores profiles and scan results in a clean data directory.
 
 Use this only on systems and networks where you have explicit authorization.
