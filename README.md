@@ -22,7 +22,6 @@ Core modules are separated by responsibility:
 
 ## Features
 
-- Startup banner: `NMAP CONTROL CENTER` and `by lexiro`
 - Nmap installation/version detection
 - Platform and privilege detection
 - Target management for IPs, domains, CIDR, ranges, target files, exclusions, and random targets
