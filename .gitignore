@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual / temp
+.pytest_tmp/
+tests/_tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App data (IMPORTANT)
+data/results/*
+data/profiles/*
+data/cache/*
+
+# Keep folders but not content
+!data/results/.gitkeep
+!data/profiles/.gitkeep
+!data/cache/.gitkeep
